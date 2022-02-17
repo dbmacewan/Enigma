@@ -1,0 +1,8 @@
+﻿  enigma.c
+C:\GIT\Enigma\Enigma\Source\enigma.c(259,23): warning C4018: '<': signed/unsigned mismatch
+C:\GIT\Enigma\Enigma\Source\enigma.c(283,49): warning C4018: '<': signed/unsigned mismatch
+C:\GIT\Enigma\Enigma\Source\enigma.c(286,15): warning C4018: '<': signed/unsigned mismatch
+  Main.c
+C:\GIT\Enigma\Enigma\Source\Main.c(36,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Source.vcxproj -> C:\GIT\Enigma\Enigma\Source\Debug\Source.exe
