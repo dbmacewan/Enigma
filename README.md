@@ -3,6 +3,7 @@
 This is an exact simulation of a model I Enigma machine used by the German Army and Airforce in WWII. The model I uses three interchangeable rotors of types I - V, and two choices of reflector discs of type B or C. As I do not have access to an orginal Enigma Machine, I based the implementation from this [source](https://www.ciphermachinesandcryptology.com/en/enigmatech.htm).
 ### Enigma Machine resources
 [ciphermachinesandcryptology.com](https://www.ciphermachinesandcryptology.com/)
+
 [cryptomuseum.com](https://www.cryptomuseum.com/crypto/enigma/i/index.htm)
 ## How to use
 See Main.c for a basic example.
