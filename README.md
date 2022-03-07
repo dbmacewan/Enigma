@@ -7,10 +7,6 @@ This is an exact simulation of a model I Enigma machine used by the German Army 
 [cryptomuseum.com](https://www.cryptomuseum.com/crypto/enigma/i/index.htm)
 ## How to use
 See Main.c for a basic example.
-- Include the files to your prjoect
-```
-#include engima.h
-```
 - Instantiate the enigma machine
 ```
 Enigma enigma;
